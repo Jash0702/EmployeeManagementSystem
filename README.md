@@ -37,6 +37,7 @@ Backend (PHP + CodeIgniter MVC)
           ⬇  
 Database (MySQL)
 
+---
 
 ## 🛠️ Tech Stack
 
@@ -54,3 +55,21 @@ Database (MySQL)
 
 ---
 
+## 🧪 How to Run the Project
+
+1. 📥 **Download the project**  
+   Download and extract the zip file from the link below:  
+   [Click here to download](https://drive.google.com/file/d/1Cd4rjaPPzWDSixNt3FKi70kqjbmCmjTN/view?usp=sharing)
+
+2. 🧰 **Start XAMPP**  
+   - Open XAMPP Control Panel  
+   - Start **Apache** and **MySQL**
+
+3. 🌐 **Run the Application**  
+   - Move the extracted folder to `htdocs` inside your XAMPP installation directory  
+   - Visit: [http://localhost/EmployeeManagementSystem](http://localhost/EmployeeManagementSystem)
+
+4. ⚠️ **Note:**  
+   There might be some **database initialization issues**. Please ensure your database is correctly imported using the provided `.sql` file if available in the zip.
+
+---
