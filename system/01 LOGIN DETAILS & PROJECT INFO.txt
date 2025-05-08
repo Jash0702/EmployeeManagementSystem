@@ -1,0 +1,9 @@
+To login as admin
+
+Username: admin
+Password: password0101
+
+to login as employee
+
+Email	: liam@gmail.com
+Password: 7410233333
